@@ -3,4 +3,4 @@
 
 ---
 
-This preliminary is now packaged and maintained in https://github.com/KitwareMedical/SlicerMarkupConstraints; this has more thorough testing and a more complete feature set.
+This preliminary work is now packaged and maintained in https://github.com/KitwareMedical/SlicerMarkupConstraints.
